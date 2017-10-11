@@ -1,2 +1,2 @@
 # ZBTest
-Pocetak
+Pocetak, sami pocetak ...
