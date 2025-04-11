@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Naslov
+title: Naslovna
 ---
 
 <!-- Navigacija -->
@@ -62,29 +62,27 @@ nav ul li ul li a:hover {
     <li>
       <a href="#">O nama</a>
       <ul>
-        <li><a href="#">Naš tim</a></li>
-        <li><a href="#">Naša priča</a></li>
+        <li><a href="/ZBTest/nas-tim.html">Naš tim</a></li>
+        <li><a href="/ZBTest/nasa-prica.html">Naša priča</a></li>
       </ul>
     </li>
     <li>
       <a href="#">Usluge</a>
       <ul>
-        <li><a href="#">Web dizajn</a></li>
-        <li><a href="#">SEO optimizacija</a></li>
+        <li><a href="/ZBTest/web-dizajn.html">Web dizajn</a></li>
+        <li><a href="/ZBTest/seo-optimizacija.html">SEO optimizacija</a></li>
       </ul>
     </li>
     <li>
       <a href="#">Kontakt</a>
       <ul>
-        <li><a href="#">Lokacija</a></li>
-        <li><a href="#">Piši nam</a></li>
+        <li><a href="/ZBTest/lokacija.html">Lokacija</a></li>
+        <li><a href="/ZBTest/pisi-nam.html">Piši nam</a></li>
       </ul>
     </li>
   </ul>
 </nav>
 
 <!-- Glavni sadržaj -->
-<h1>Dobrodošli na moju stranicu</h1>
-<p>Ovo je početna stranica s prilagođenim menijem.</p>
-
-
+<h1>Dobrodošli!</h1>
+<p>Ovo je početna stranica web projekta na GitHub Pages uz Jekyll i temu "minima".</p>
