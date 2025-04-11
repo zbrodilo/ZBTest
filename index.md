@@ -1,11 +1,4 @@
 ---
-layout: home
-title: Dobrodošli
----
-
-Ovo je sadržaj tvoje početne stranice. Možeš koristiti Markdown!
-
----
 layout: default
 title: Naslov
 ---
@@ -93,4 +86,5 @@ nav ul li ul li a:hover {
 <!-- Glavni sadržaj -->
 <h1>Dobrodošli na moju stranicu</h1>
 <p>Ovo je početna stranica s prilagođenim menijem.</p>
+
 
